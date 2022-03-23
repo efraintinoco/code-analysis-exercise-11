@@ -33,16 +33,22 @@ function (actualAge){
 }
 ```
 
-| Input | Output |
-| ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
-
+| Input | Output    |
+| ----- | --------- |
+| 1     | 1, 15, 15 | 
+| 2     | 2, 24, 24 | 
+| 3     | 3, 28, 29 | 
+| 4     | 4, 32, 34 |
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>The function is taking the actual age of human years and converting it
+        to the equivlent in cat and dog years. The function will return 15 years for both
+        dogs and cats if the actual human year is 1 , and will return 24  for both cat and dog years if the actual human year is 2.
+        after that , what ever number is given for actual age it will return the actual age 
+        for human years and run an Expression  for both dogs and cats respectively, to 
+        determine the equivalent in dog and cat years.  
+</td>
   </tr>
 </table>
 
