@@ -35,10 +35,10 @@ function (actualAge){
 
 | Input | Output    |
 | ----- | --------- |
-| 1     | 1, 15, 15 | 
-| 2     | 2, 24, 24 | 
-| 3     | 3, 28, 29 | 
-| 4     | 4, 32, 34 |
+| 1     | { humanYears: 1, catYears: 15, dogYears: 15 } | 
+| 2     | { humanYears: 2, catYears: 24, dogYears: 24 } | 
+| 3     | { humanYears: 3, catYears: 28, dogYears: 29 } | 
+| 4     | { humanYears: 4, catYears: 32, dogYears: 34 } |
 <table>
   <tr>
     <th>What does this program do?</th>
